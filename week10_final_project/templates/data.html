@@ -1,0 +1,50 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Date</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+
+        /* Additional styles to center the table */
+        .centered-content {
+            align-items: center;
+        }
+
+        table {
+            margin: 20px auto; /* Automatic horizontal margin and 20px vertical margin */
+            border-collapse: collapse;
+        }
+        
+
+    </style>
+</head>
+
+<body style="font-family:arial, sans-serif">
+    <h1 style="background:lightblue;padding:10px">
+        MSDS434 Project: Bitcoin Cash Trade Prediction
+    </h1>
+    
+    <div class="centered-content">
+        {% for table in tables %}
+            <table>
+                <thead>
+                    <tr>
+                        <th>{{ title }}</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{ table|safe }}
+                </tbody>
+            </table>
+        {% endfor %}
+        <a href="set_base_model">Back to the start</a>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Date</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body style="font-family:arial, sans-serif">
+    <h1 style="background:lightblue;padding:10px">
+        MSDS434 Project: Bitcoin Cash Trade Prediction
+    </h1>
+    
+    <p>Select Predicting Date</p>
+
+    <form action="/data" method="post" style="text-align: center;">
+        <label for="year">Year:</label>
+        <input type="text" name="year" required><br><br>
+
+        <label for="month">Month:</label>
+        <input type="text" name="month" required><br><br>
+
+        <label for="day">Day:</label>
+        <input type="text" name="day" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>
+

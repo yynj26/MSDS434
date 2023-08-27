@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-395518",
+  "private_key_id": "3924a70010297395aac50733555bbddba659be0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcEErU2aW/j9vI\nKvWA6oGiJdzq4or8MadQimdw037Er1ir8hg1DKejZUCeg5GXQ1tVonxx6Dg4v/P0\nv9z3Hghka79X84m1pa6QggJDo3EDROmSQUUREGvPPJqD+Wc+aXPLduYf3O4fptn4\ns6Qu5VLSA/4rXyAMzlskCaRrOYSCpbeakq2q2vXwMKzmFVjRDeKhmUtu5hmnG4UH\nwxi769BnFYSH4Y9qUrrK75I6ibEVKjTu9W6MiN/5mvmPV5X8CddEvf/ISte1xSxK\ntKrVfnsqpRoELWmcDdhR+2ujqnjuH2zrrj9xataLbKJCD80UKaFSCfQzu0wXm2q8\nLi30yPE7AgMBAAECggEADDTiBX/4jOEtqZxik3DELvCTNPP/NvaTRaNtr897DNtC\nLkDDT/LrccZLpZpY2uHz1ODepvIo45dv92bCW7nHokMjNjfgP4rz+m2Qy8WO41iS\nhFQCmPEV3aG53DS3tJP+8J0eJsPbBDLCvccfQmPBdJfHW5EXKqlBS7JNX+2hxa4d\nQv+dOGEqu1hkrB5/dicxUH18Dd9MukZ75M/x697kAFD4vhuwuoSPQ5vU/+PEfabD\nLKQhNQ/fiwFD+ZMrpz1mmYHTieoXqpKHH0sYZ+LfsZGYHVh/40D9LY9hIZ+3p+oo\nYYDyeoxUvf40G1yygJXah1pRa44ND5eLTKX3gku0cQKBgQDO0049IcJ2aMc9jVGC\nkXY3CJvCS0WbbnB9+sQdOGGwzcMuQj2b4ASSadQ6fur05ln13hDSGPGVPnYWo3Ha\nnM+29LuaJ7DyLDaG3b2hpre/iq5zkFG1zQqFxWrEdF75nuSSWw15Gc8pOOFE3sog\nDKsD7jlO+R0lwc0jV/7Ev0xQ3QKBgQDBK05qvh08roKBM0Acu7bcQaccGV8KLbhn\nRe/2oPbnAUBOIKmAw6x1R+GuC7AYgPRc3GOreW4cJEfL6AttJKScBazYTlDnM7+B\nE8I2ewXhQjV+DYwiSp/RReuDE69Q+2/6C4SCP0vOXhVl5kdH4jhw+0uQD2UV+OJp\nJGWKKD3c9wKBgFTe1vM1AERwuJmkfPc0U6s/qBLxqm2ewyCfH4zSDxxrQxWfbwKg\nyZ9/N+yNGkNGp1HCP2rHe5L/n5uolFbeFEqCYN1gPjcSN4neQiusayh5cx7O8QjG\nS/Qaz7Yv/q02K5t3K68vDRhgU+hb99tw91hUkEW86d4Nie1f9Zas3VctAoGBAIKn\n8BpzDQOGZe9N4weMUFsabRWsc4RG+Huh6nU+2sHVLtGpdf0KXRPW0ucOMMXiM2a8\nCw5oy/ls8MMS6Oeh6VU+4XJNRpubfOSpoKuI+qkqR1RDhY2MPB0o1euK3QJBj7Pp\nJm+SsIudR4vs/jm44cRJtQpz30PFXB8R5zxTi8RxAoGBAJV7Ab6OeMkecxf+UfqI\nlxSSCfIvQi4OBgi8DCAI7dyjJnDHJmPufmCOlGd7Q3IcRtwcsdByjuycRZFMpkVR\nEfu0QIGSkNb7K8shF7E34YDxrQZyIEzpgJenNYyUo2KjDW4sSCkCvHcOubVfOHTX\nHUfnz7kg+J0w81ngt8FJNGIF\n-----END PRIVATE KEY-----\n",
+  "client_email": "julie-yang@project-395518.iam.gserviceaccount.com",
+  "client_id": "101515368456087228976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/julie-yang%40project-395518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
